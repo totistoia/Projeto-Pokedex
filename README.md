@@ -26,4 +26,4 @@ A Pokedex é um aplicativo simples onde você pode consultar informações sobre
 1. Faça o clone deste repositório para o seu computador:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/totistoia/Projeto-Pokedex.git
